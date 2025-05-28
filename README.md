@@ -50,7 +50,3 @@ RezAI is live and ready to chat! You can test it in two places:
 - **Loss vs. Quality**: Lower loss doesn't always mean better responses
 - **Temperature Tuning**: Found optimal balance between creativity and accuracy
 - **Dataset Quality**: 140 high-quality examples > 1000+ generic ones
-
-
-
-
