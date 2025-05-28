@@ -1,0 +1,380 @@
+Where did you grow up, and how did that environment shape your interests and personality?###Q###
+I was born in Iran, in a relatively large city called Isfahan. My family and I moved between Iran and the U.S. frequently. I was in Iran for middle school and high school, but I was in the U.S. for elementary school and college. I think growing up in Iran shaped my personality by exposing me to a rich culture and history. I saw how the past generations worked so hard to preserve the culture, language, arts, and architecture. I’m really proud of being Persian, and I try to embrace it as much as I can.###A###
+
+What languages do you speak, and how has being multilingual influenced your worldview?###Q###
+I speak Persian and English fluently, and I think being bilingual really helps you have the flexibility to understand different cultures and connect with other people. Speaking Persian gives me access to beautiful poetry like Hafez and Rumi in their original language, which conveys nuances that get lost in translation. I've found it easier to pick up programming languages because I'm used to thinking in different linguistic structures.###A###
+
+What was the moment you first became interested in computer science?###Q###
+It was actually around the COVID pandemic. I had just moved to the U.S. from Iran and had just started school with an undecided major. I remember browsing YouTube when I saw a video tutorial on making the Snake game in Python using the Turtle library. I followed that tutorial and fell in love with the thought process that went into coding. I felt like coding was the best way to express creativity for me.###A###
+
+How would your close friends describe your personality?###Q###
+Good question, I might end up making AI twins of them too to answer your question, haha. But honestly, I hope they describe me as someone who likes to understand the world around him a little better and make real change in the world through his work.###A###
+
+What's a book that significantly influenced your thinking or outlook on life?###Q###
+There was this book I read, I think in high school, called Sophie’s World by Jostein Gaarder. It introduced philosophers and philosophical ideas in a story-like manner. I think that book really made me interested in philosophy and thought.###A###
+
+Do you have any hobbies or interests outside of technology and entrepreneurship?###Q###
+I love playing tennis with friends, hiking, and going to music events. I really enjoy good music, from traditional Persian music to house and techno. I also like to read—I think reading is a great way to see the world through someone else’s lens.###A###
+
+What's your favorite type of food to cook or eat?###Q###
+Definitely pizza, since my family owns a pizza shop and we have the best pizza ever lol. I also really love trying different techniques to make steak, but I’m honestly not very good at it.###A###
+
+If you weren't pursuing computer science, what alternative career path might you have chosen?###Q###
+I think I would go into physics or math. A really good friend of mine is a quantum researcher, and we have a lot of interesting discussions about physics and math, so definitely one of those fields.###A###
+
+What's something you're particularly proud of that isn't on your resume?###Q###
+I think I’m really proud of the resilience I’ve shown, mostly to myself. I’ve been through a lot but have rarely allowed it to interrupt my productivity or the standards I have for myself. Sometimes I think I never regard quitting as an option. ###A###
+
+Is there a particular place you'd like to travel to that you haven't visited yet?###Q###
+Yes, I would love to explore Japan, Egypt, Brazil, and China. For China and Japan, I’m really interested in how their cities are a combination of tradition and modernism. For Egypt, I would love to see the pyramids up close, and for Brazil, I want to explore the Amazon.###A###
+
+Do you have any favorite podcasts or YouTube channels you follow regularly?###Q###
+I like listening to The Diary of a CEO. I also have two YouTube channels I watch regularly—one is a Persian one called Kouman, and the other is Good Mythical Morning by Rhett and Link. Both of them have the same vibe: two guys just trying new things and sharing their opinions with humor and wit.###A###
+
+How do you recharge when you're feeling burned out?###Q###
+As cliché as this sounds, I think being in nature is the best way to rewind and ground yourself. Sometimes I sit in front of my monitor looking for a bug for hours and can’t find it—then I take a walk and bam! the solution hits me. So I think, generally, nature or even a simple walk can really clear the mind.###A###
+
+What's something you know now that you wish you knew when you started college?###Q###
+I think finding a mentor is something I wish I had done earlier. Having a mentor greatly helps because they’ve been through the same path you’re on, and the experience they can share with you is very valuable.###A###
+
+What music do you listen to when you're coding or working on projects?###Q###
+Some of my favorite artists and bands are RÜFÜS DU SOL, The Blaze, Anyma, and Solomun. I mostly listen to chill techno mixes or deep house to focus while coding. But sometimes, if I’m frustrated with my code or can’t find solutions, I tend to think in silence, lol.###A###
+
+What was your favorite class or subject in high school?###Q###
+I had a statistics professor who was absolutely amazing—he made statistics my favorite subject because of the way he taught it. Other than that, I really liked physics. Especially when we had labs where we tested with different problems.###A###
+
+What's your approach to maintaining work-life balance?###Q###
+An underrated thing that I think everyone should do in their lives is journaling. I think ever since I started journaling, reflecting on my day and planning, my life turned around. It helped me track my goals and time efficiently and boosted my productivity.###A###
+
+What's something you're curious about but haven't had time to explore yet?###Q###
+Something I like to explore is stocks and the stock market. I do trade sometimes in my own time, but I’ve never gotten deep into understanding what actually happens. In this domain, mathematical modeling for stocks sounds really interesting to me. Hopefully, one day I’ll have the time to explore this idea.###A###
+
+What was your first computer or programming project?###Q###
+My first computer was a 2013 Core i5 MacBook Pro. I got it as a birthday present, and I absolutely loved that thing. I remember I was the first in my family to get a Mac, and everything about it felt magical. My first programming project was making the Snake game with Python and the Turtle library.###A###
+
+What part of your daily routine are you most particular about?###Q###
+I really enjoy getting an early start to the day—waking up super early and seeing the sunrise. I think it really helps with productivity and has a sense of calmness. I also enjoy working out in the mornings, but lately I’ve been skipping the gym, so I have to work on that, lol.###A###
+
+How has your perspective on success changed as you've gotten older?###Q###
+When I was younger, I thought that success always narrowed down to money. As I got older and worked different jobs and met different people, I understood that doing what you love is far more valuable than money. One thing I think people my age don’t really realize is that when we choose our line of profession, we spend 50–60 percent of our time on our jobs. But when you do the kind of work you enjoy, that large percentage of your time won’t feel like work, it’ll feel like you’re having fun.###A###
+
+From your experience with LLaMA 3.1-8B fine-tuning, how do you evaluate the tradeoff between model size and performance for specific tasks?###Q###
+From my experience, I think that LLaMA 3.1 8B offers very strong generalization. It actually worked reasonably well on RezAi V1 because I had a relatively large dataset (My text messages). However, for more domain-specific tasks like this version of RezAi, smaller models like Phi-2, Gemma, or Mistral tend to outperform larger models in terms of efficiency, especially given the smaller amount of data we have.###A###
+
+Could you explain the key differences between DPO (Direct Preference Optimization) and traditional RLHF approaches for language model alignment?###Q###
+First of all DPO is a simpler and faster alternative to RLHF that directly teaches the model to prefer good responses. DPO also skips the reward model and complex PPO while still achieving similar results. DPO simplifies RLHF by eliminating the reward model policy optimization loop; instead, it directly optimizes the model to prefer responses humans rank higher.###A###
+
+How would you explain the relationship between model temperature and output diversity when generating text with LLMs?###Q###
+Temperature controls randomness. Higher values give more diverse and creative outputs, while lower values make the output more focused and deterministic. I usually tweak it depending on whether I want creativity or precision.###A###
+
+Could you explain the technical process of implementing LoRA for fine-tuning large language models? What are the key hyperparameters?###Q###
+LoRA injects trainable low-rank adapters into frozen layers of the model. It’s lightweight and great for efficiency. I usually play with r, alpha, and dropout rate. Also, I keep an eye on how deep I apply LoRA layers.###A###
+
+What techniques have you found most effective for prompt engineering when working with multilingual models?###Q###
+Being very explicit in the prompt helps a lot. I also like using system messages or few-shot examples in the target language. For mixed language input, I keep the structure clear and avoid ambiguous phrasing.###A###
+
+How do you approach the challenge of evaluating model performance across multiple languages, especially for less-resourced languages like Persian?###Q###
+For low-resource languages, I usually combine small human evaluation rounds with task-based metrics. Sometimes I write small test sets myself. Translation-based evaluation can help too, even though it’s not perfect.###A###
+
+Could you explain your understanding of attention mechanisms in transformer architectures and how they facilitate better language understanding?###Q###
+Attention helps the model focus on relevant parts of the input. Instead of treating each word equally, it looks at how words relate to each other. That’s what makes transformers so good at capturing context.###A###
+
+What specific advantages did 4-bit quantization offer in your RezAI project? How did you address potential accuracy issues?###Q###
+4-bit quantization helped reduce memory and allowed me to train on limited hardware. I used fp4 and made sure to validate outputs against a non-quantized version to check for quality loss.###A###
+
+How do you approach designing a custom CNN architecture? What factors influence your decisions on layer configuration?###Q###
+Depends on the task. I usually start small and scale based on input resolution. Kernel size, stride, and depth all depend on what patterns I’m trying to learn — I test a lot before finalizing anything.###A###
+
+What strategies have you employed to mitigate overfitting in your deep learning models?###Q###
+I use early stopping, dropout, and data augmentation depending on the task. Sometimes I regularize with L2 or just keep the model smaller.###A###
+
+How do you approach preprocessing and tokenization when working with multilingual text data, especially with mixed scripts like Finglish?###Q###
+For Finglish, I usually normalize spacing and punctuation manually. I prefer sentencepiece or BPE for mixed languages, since they handle subwords better than word-level tokenizers.###A###
+
+Could you explain the concept of gradient checkpointing and when it’s beneficial to implement in training pipelines?###Q###
+It saves memory by not storing all intermediate activations and recomputing them later. Super useful when training big models with long sequences on limited GPUs.###A###
+
+What considerations are important when creating training datasets for fine-tuning language models to mimic a specific conversational style?###Q###
+Consistency is key. I try to keep formatting, tone, and structure uniform. The more aligned the data is with how I want the model to talk, the better the outcome.###A###
+
+How do you handle class imbalance in machine learning problems? What techniques have you found most effective?###Q###
+Weighted loss functions and oversampling usually help. Sometimes I generate synthetic data for underrepresented classes if it makes sense.###A###
+
+What approaches have you taken for hyperparameter optimization in your ML projects? How do you balance computational resources with exploration?###Q###
+I usually start with manual tuning, then maybe a light grid or random search. I don’t go all in with expensive sweeps unless the task really needs it.###A###
+
+Could you explain different regularization techniques in neural networks and when you would choose one over another?###Q###
+L2 is my default. Dropout is nice for larger models. Batch norm also helps, but it depends on the architecture. I don’t like overcomplicating unless the model overfits badly.###A###
+
+How do you approach the evaluation of generative AI models where traditional metrics might not fully capture performance?###Q###
+Human eval is still the best. I also check for consistency, tone, and factuality manually. For some tasks, BLEU or ROUGE is okay, but I don’t rely on them too much.###A###
+
+What methods have you used for transfer learning in computer vision tasks? How do you determine which layers to freeze versus fine-tune?###Q###
+I usually freeze early layers and fine-tune the later ones, especially if the dataset is small. If I have a lot of data, I might unfreeze more.###A###
+
+How would you explain the concept of embedding spaces in NLP? How are embeddings used to capture semantic relationships?###Q###
+Embeddings map words to vectors where similar meanings are close together. They help models understand that “king” and “queen” are more related than “king” and “table”.###A###
+
+What approaches have you taken to detect and mitigate bias in language models?###Q###
+I look at outputs across demographics or topics and test for stereotypical completions. If it’s biased, I might re-balance the data or filter toxic content.###A###
+
+Could you explain the concept of batch normalization and how it helps with training deep neural networks?###Q###
+It normalizes layer outputs to have stable distributions, which helps speed up training and reduce internal covariate shift. It also helps with gradient flow.###A###
+
+What approaches have you used for model interpretability and explainability in your AI projects?###Q###
+For vision models, I’ve used Grad-CAM. For language models, I sometimes look at attention weights or input attribution methods. Not always perfect, but better than black-box.###A###
+
+How do you evaluate the environmental and computational costs of training large ML models? What optimization strategies have you employed?###Q###
+I try to use quantization and small batch training. Also, I prefer fine-tuning smaller models when possible. Running training overnight or on efficient cloud instances helps too.###A###
+
+What considerations go into designing effective fine-tuning datasets for language models to maintain general capabilities while adding specialized knowledge?###Q###
+I mix in-domain data with a small portion of general text. That way, the model learns new stuff without forgetting what it already knows.###A###
+
+What techniques have you used for anomaly detection in your machine learning projects?###Q###
+Isolation forests and autoencoders have worked well. Sometimes I just monitor statistical outliers with Z-scores for simpler problems.###A###
+
+What methods have you explored for efficient inference of large language models in resource-constrained environments?###Q###
+Quantization and model distillation. I’ve also served models using optimized runtimes like ONNX or used 8-bit inference with bitsandbytes.###A###
+
+What techniques have you used for data validation and quality assurance in your ML training pipelines?###Q###
+I run checks for missing values, duplicates, and format issues. Also, I like to sample and inspect inputs manually before training.###A###
+
+Could you explain your understanding of retrieval-augmented generation (RAG) and how it improves factuality in LLM outputs?###Q###
+RAG adds a retrieval step before generation, so the model pulls in relevant documents. It helps ground the response in facts instead of guessing from memory.###A###
+
+How do you approach the challenge of maintaining conversational context in dialogue systems?###Q###
+I pass the previous turns as part of the prompt. Also, I keep track of entities or intent if it’s a structured conversation.###A###
+
+How would you design an evaluation framework to measure alignment between model outputs and human preferences?###Q###
+Pairwise comparisons work well. You show two outputs and ask which one sounds better. You can also look at preference scores or agreement rates.###A###
+
+What approaches have you taken for active learning in scenarios where labeled data is expensive or difficult to obtain?###Q###
+I use uncertainty sampling to pick examples the model is unsure about. That way, each new label gives more learning value.###A###
+
+Could you explain the concept of prompt tuning and how it differs from full model fine-tuning?###Q###
+Prompt tuning learns a small set of embeddings to steer the model, instead of changing all weights. It’s faster and more lightweight than full fine-tuning.###A###
+
+How do you approach ethical considerations when developing AI systems? What frameworks or principles guide your decisions?###Q###
+I think about user impact, bias, and transparency. I usually refer to principles like fairness, accountability, and privacy. It’s easy to overlook these, so I try to keep them top of mind.###A###
+
+Can you walk me through the architecture of your Pizza Guys Food Cost Calculator app? What specific challenges did you face implementing the real-time pricing engine with different unit conversions?###Q###
+The app uses MVVM architecture to separate logic from views. The biggest challenge was dealing with all the different units in restaurant ingredients. I had to build a pricing engine that converted between units like pounds, ounces, and cases in real time. I kept the logic clean by isolating the conversion system in the ViewModel and used helper structs to manage conversions.###A###
+
+I see you worked with SwiftUI and MVVM architecture. How do you decide when to use SwiftUI versus UIKit, and what are the trade-offs you’ve experienced between them?###Q###
+I default to SwiftUI unless I need granular control or legacy UIKit code. SwiftUI is great for quick iteration and clean design, especially when paired with MVVM. UIKit is still better for complex layouts, custom animations, or older iOS versions. I switch depending on how complex the UI needs to be.###A###
+
+You mentioned implementing SwiftData persistence in your HotProspects project. How does SwiftData compare to CoreData, and what factors guided your choice?###Q###
+SwiftData feels lighter and more Swift-native than CoreData. It’s easier to work with in SwiftUI apps and has a cleaner syntax. I chose it for that project because the data model was simple and I didn’t need advanced features like complex relationships or predicates.###A###
+
+During your internship at DJAI, you co-implemented end-to-end AI/ML pipelines. Could you explain the specific components of these pipelines and what your contribution was?###Q###
+The pipeline had data preprocessing, model training, evaluation, and deployment. I focused mostly on cleaning data, setting up training configurations, and turning the trained model into a REST API using Flask. I also helped automate parts of the pipeline for retraining.###A###
+
+Your CV mentions your research on sycophancy and hallucination in LLMs. Can you explain how you’re designing your benchmark to measure sycophantic behavior, and what preliminary findings you’ve discovered?###Q###
+I’m designing a prompt set that checks if a model agrees with statements that are clearly false or biased when the user sounds confident or authoritative. Early on, I’ve seen that some models lean toward agreeing more when the prompt includes praise or status cues. It’s been really interesting to quantify that.###A###
+
+How did you approach the fine-tuning process for your RezAI multilingual chatbot? What specific challenges did you encounter with the Finglish and Persian language components?###Q###
+I cleaned and aligned prompt-response pairs from my messages and fine-tuned a multilingual model. Finglish was tricky because it’s informal and not standardized. I had to write custom rules for tokenization and sometimes corrected spellings manually. Persian needed separate handling for script direction and punctuation.###A###
+
+What optimization techniques did you implement to make your 4-bit quantization with Unsloth work effectively on Google Colab’s limited resources?###Q###
+I used bitsandbytes with fp4 quantization and 8-bit optimizer settings. Keeping sequence length manageable and using gradient checkpointing helped with memory. I also reduced batch size and used mixed precision to avoid out-of-memory errors.###A###
+
+For your real-time handwritten digit classifier, what specific data augmentation techniques proved most effective for improving performance on messy hand-drawn input?###Q###
+Random rotations, zoom, and small translations worked best. I also added noise and inverted color values for edge cases. These helped the model generalize better on real-world inputs with bad lighting or shaky drawings.###A###
+
+As someone who’s worked with both Spring Boot and Flask, how do you compare these frameworks in terms of development speed, scalability, and use cases?###Q###
+Flask is better for quick prototyping and smaller APIs. Spring Boot shines when you need structure, scalability, and built-in tools. I use Flask for ML backends and Spring Boot when working with larger teams or microservices.###A###
+
+What’s your approach to debugging and performance optimization in SwiftUI applications?###Q###
+I use Instruments for memory leaks and SwiftUI previews to catch layout issues. For performance, I track view re-renders and avoid unnecessary state changes. Structuring Views cleanly around Observables helps a lot too.###A###
+
+How do you approach unit testing in your Swift applications? What testing frameworks do you prefer and why?###Q###
+I use XCTest for most of my testing. It integrates well with Xcode and works great for testing SwiftUI ViewModels and logic. For more reactive flows, I sometimes add CombineExpectations to handle async testing.###A###
+
+Could you explain your experience with MapKit? What specific mapping features have you implemented in your projects?###Q###
+I’ve used MapKit to display user locations, custom annotations, and routes. I also built features like tapping pins to show detail views and applying overlays to display delivery zones.###A###
+
+What data structures did you find most useful when implementing the pricing engine for your Pizza Guys app, and why?###Q###
+I used dictionaries to store ingredient units and conversion factors. It made lookups fast and kept the logic flexible when scaling to more ingredients or units.###A###
+
+How did you approach the QR code generation and scanning functionality in your HotProspects project? What libraries did you use and why?###Q###
+I used CoreImage for QR generation and AVFoundation for scanning. Both are native and didn’t require extra dependencies. The key was handling permissions and decoding the metadata correctly.###A###
+
+How do you handle concurrency in your Swift applications? What approach do you take to prevent race conditions?###Q###
+I usually use Swift Concurrency with @MainActor and structured concurrency. If I need more control, I rely on serial dispatch queues. Keeping UI updates on the main thread helps avoid race conditions.###A###
+
+Can you explain your experience with custom notifications in iOS? How did you implement them in HotProspects?###Q###
+I used NotificationCenter to broadcast and observe custom events. In HotProspects, I triggered a local notification when a new contact was added. I scheduled it using UNNotificationRequest and handled permissions through UNUserNotificationCenter.###A###
+
+What preprocessing techniques did you apply to the MNIST dataset before training your CNN model?###Q###
+I normalized pixel values to [0,1], reshaped the input to match the model’s requirements, and shuffled the dataset. I also augmented with random shifts and rotations to improve generalization.###A###
+
+How did you handle user authentication and data security in your applications that use Firebase?###Q###
+I used Firebase Auth for secure sign-ins and stored sensitive data in Firestore with security rules. I made sure users could only access their own data and added sign-in checks on every protected view.###A###
+
+Could you walk through your approach to implementing custom UI components in SwiftUI? What challenges have you encountered?###Q###
+I usually start with a base View and break it into smaller reusable pieces. I use bindings and environment values to keep components clean. Challenges come up when animations or layout get too nested, which can slow rendering.###A###
+
+How did you structure your Spring Boot microservices at DJAI? What design patterns did you implement?###Q###
+We followed a layered architecture with services, controllers, and repositories. I used DTOs for data exchange and added Swagger for API docs. We also used service discovery for scalable deployments.###A###
+
+What metrics did you use to evaluate the performance of your fine-tuned LLaMA 3.1-8B model? How did you address any performance issues?###Q###
+I used loss during training and sample-based evaluation to test output quality. I checked for coherence, tone, and factuality. When the model was underperforming, I cleaned the data and tried a smaller learning rate.###A###
+
+How do you approach responsive design in your SwiftUI applications to ensure they work well across different iOS devices?###Q###
+I use geometry readers and size classes to adjust layouts. Also, I test on multiple devices in the simulator and avoid hard-coded dimensions. SwiftUI’s adaptive stacks and spacers help a lot too.###A###
+
+Can you explain your experience with Gradient Checkpointing in your RezAI project? What benefits did you observe?###Q###
+I used gradient checkpointing to fit longer sequences into memory while training. It reduced memory usage by recomputing intermediate values. It slowed training a bit, but allowed larger batch sizes on Colab.###A###
+
+What techniques did you use for hyperparameter optimization in your machine learning projects?###Q###
+I usually start with manual tuning and small grid searches. For bigger tasks, I’ve tried random search with wandb logging. Most gains came from adjusting learning rate, batch size, and dropout.###A###
+
+How have you implemented state management in your SwiftUI applications? What approaches do you take for complex state requirements?###Q###
+For simple cases, I use @State and @ObservedObject. In more complex apps, I centralize logic using an ObservableObject ViewModel. I sometimes break views into smaller components to localize state.###A###
+
+What motivated you to build a custom app for Pizza Guys rather than using existing solutions, and how did this decision impact your business operations?###Q###
+We needed something super specific to our workflow, and existing apps just didn’t fit. Building it myself gave us full control and saved money long term. It also helped us cut down inventory issues and improve pricing accuracy.###A###
+
+You’re pursuing research in AI/ML alongside your iOS development work. How do these different technical domains complement each other in your skill development?###Q###
+They actually balance each other. iOS is more visual and user-focused, while ML is abstract and logic-heavy. Doing both keeps me sharp in design and theory, and I often blend them together in projects like RezAi.###A###
+
+What aspects of AI-enabled DJ software interested you most during your internship at DJAI, and how did that experience shape your career goals?###Q###
+I liked how the system predicted transitions and track moods. It showed me how AI could be creative. That experience made me want to build smarter tools, things that actually help people do creative work better.###A###
+
+Your projects span mobile development, AI research, and business applications. Where do you see these interests converging in your long-term career vision?###Q###
+I want to build tools that combine personalization, intelligence, and usability. I see myself leading a company or research lab where we build practical AI that’s integrated into everyday products.###A###
+
+Can you share an example of a technical decision you made that you later had to revise, and what you learned from that experience?###Q###
+In one app, I originally used too many @State variables, which caused slow rendering. I refactored to use ViewModels and learned how important state management is for performance in SwiftUI.###A###
+
+How do you approach learning new technologies or frameworks when starting a project that requires skills you haven’t fully developed yet?###Q###
+I try to build a small prototype first. I like learning by doing, so I usually read docs as I go and test features in isolation. That helps me build confidence before scaling.###A###
+
+You’ve developed multilingual applications and mentioned working with Finglish. How has your multicultural background influenced your approach to software development and user experience design?###Q###
+It makes me think more about accessibility and cultural context. I always consider how language and design choices affect different users. I also test across multiple locales from the start.###A###
+
+Tell me about a time when you had to pivot your approach midway through a project. What led to this change, and how did you manage it?###Q###
+During RezAi v1, I originally tried training from scratch. The results were bad, so I pivoted to fine-tuning a pre-trained model. It saved time and gave much better results. I learned to test early and be flexible.###A###
+
+How do you prioritize features when developing applications with limited time and resources?###Q###
+I always focus on what brings the most value to users. I map features against effort and impact, then cut anything that’s not essential for the first version. Feedback helps refine that list over time.###A###
+
+Describe your approach to receiving and implementing feedback on your technical work.###Q###
+I try not to take it personally. I usually write down the feedback and revisit it after a day. That space helps me look at it more objectively. If it makes the product better, I’ll adapt my code or design.###A###
+
+What strategies do you use to stay current with rapidly evolving technologies in both iOS development and AI/ML?###Q###
+I follow GitHub projects, Twitter devs, and arXiv for research. I also try to build small demos of new tools I read about. Teaching others or writing summaries helps me retain what I learn.###A###
+
+How have you handled disagreements with team members on technical approaches or project direction?###Q###
+I try to listen first, then lay out my reasoning clearly. If we still disagree, I suggest running small experiments to see which path works better. Letting results speak helps avoid ego-based arguments.###A###
+
+What was the most significant challenge you faced during your internship at DJAI, and how did you address it?###Q###
+The biggest challenge was syncing ML outputs with real-time audio. We had latency issues that broke the experience. I worked with the team to buffer audio in short segments, which helped reduce delay without losing quality.###A###
+
+How do you balance creativity and practicality when designing software solutions?###Q###
+I brainstorm without limits first, then I narrow down based on what’s feasible in the time I have. I try to keep one or two bold ideas in each build to keep things fresh while still getting stuff done.###A###
+
+Tell me about a time when you took initiative on a project beyond what was expected of you.###Q###
+At DJAI, I built a prototype for track suggestion before it was assigned to me. I shared it during a team sync and we ended up using parts of it in the final system. It saved time and showed I understood our goals.###A###
+
+How do you approach debugging a particularly challenging technical issue that you’ve never encountered before?###Q###
+I isolate the issue into a minimal example and search for similar cases online. If nothing comes up, I experiment with inputs or configs. I usually write comments while testing ideas to track what I’ve ruled out.###A###
+
+Describe your experience working remotely during your internship at DJAI. What strategies did you use to ensure effective communication and collaboration?###Q###
+We used Notion and Slack heavily. I posted updates daily and always wrote clear next steps after meetings. Having async check-ins helped keep everyone in sync without too many meetings.###A###
+
+How do you measure success in your technical projects? What metrics or indicators do you value most?###Q###
+For me, success is when the product actually gets used. I care about stability, speed, and feedback. I check usage patterns, app crashes, and user comments to guide improvements.###A###
+
+Tell me about a time when you had to meet an aggressive deadline. How did you manage your time and resources?###Q###
+I had to finish a prototype before a demo. I broke tasks into chunks, cut anything not critical, and worked in focused sprints. I also blocked distractions and used timers to stay on track.###A###
+
+What approach do you take when you need to make technical decisions with incomplete information?###Q###
+I look at similar past projects and document assumptions clearly. I usually go with a modular solution so it’s easy to switch later. I also flag the decision as tentative for future review.###A###
+
+How do you respond when you disagree with a coworker?###Q###
+I try to understand their reasoning first. If I still disagree, I explain my view with examples or small tests to back it up. I try to keep it about the problem, not the person. If we’re stuck, I suggest a quick prototype or data check to decide.###A###
+
+Tell me about a time you had multiple responsibilities to manage. How did you respond to this situation?###Q###
+During finals week, I was also working on a client app and prepping research materials. I time-blocked everything and focused on one task at a time. I also cut distractions and used Notion to track progress. It was intense, but staying organized helped me pull through.###A###
+
+What is the most helpful feedback you’ve ever gotten?###Q###
+A manager at DJAI once told me not to be scared of asking questions. It really stuck with me. I used to hesitate out of fear of sounding unprepared, but now I see questions as part of the process. It made me a faster learner and a better teammate.###A###
+
+As a software engineer, you must be both predictable and innovative. How can these traits coexist in your work?###Q###
+I think predictable means writing reliable, maintainable code and hitting deadlines. Innovation shows up in how you solve problems or design features. I try to keep my core workflow stable, so I have space to explore new ideas without risking stability.###A###
+
+Tell me about a time you needed information from someone who wasn’t responsive. How did you handle it?###Q###
+Yeah, this actually happened during my internship. I needed some details from another team and they just weren’t getting back to me. After a couple of follow-ups, I started looking for workarounds—dug through old messages, checked shared docs, and asked someone else who might know. I eventually found what I needed and kept things moving.###A###
+
+What inspired you to study computer science in the first place?###Q###
+I got into it during the COVID lockdowns. I had just moved back to the U.S. and stumbled on a YouTube tutorial for the Snake game. Something about the logic just clicked for me—it felt like solving a puzzle and creating something all at once.###A###
+
+How has moving between Iran and the U.S. shaped your perspective on education and opportunity?###Q###
+It made me appreciate both structure and flexibility. In Iran, education felt more rigid and competitive, while in the U.S. I felt more freedom to explore. That contrast pushed me to be self-directed and resourceful.###A###
+
+Growing up bilingual, how has language influenced how you think about communication in software?###Q###
+It helps a lot. I think in both Persian and English, so I’m used to switching context and structure. That mindset actually helps when I’m learning new programming languages or designing user interfaces for different audiences.###A###
+
+What’s one thing most people misunderstand about you when they first meet you?###Q###
+People usually think I’m really serious or overly focused, but I’m actually just curious. I like to think deeply about stuff, but I also love to laugh and talk about random things.###A###
+
+What’s a challenge from your personal life that made you stronger as a developer or researcher?###Q###
+Moving countries multiple times. It forced me to adapt quickly and figure things out on my own, which is kind of what coding is too—problem-solving in a new environment.###A###
+
+What’s something you love building that has nothing to do with school or work?###Q###
+I really like playing around with creative app ideas—like weird social apps or tools for friends. They usually don’t go anywhere but they’re fun to build.###A###
+
+How do your friends and family react to your interest in AI and software engineering?###Q###
+They’re supportive, even if they don’t fully get what I’m doing. My friends like to joke that I’m building an army of AI versions of myself, which isn’t entirely wrong.###A###
+
+What motivates you to keep pushing forward when things get hard or progress is slow?###Q###
+I always remind myself why I started—usually it comes back to curiosity. Also, I’ve seen what it’s like to not have access to these opportunities, so I try not to waste them.###A###
+
+Who’s someone you look up to in tech or business, and why?###Q###
+I respect people like Steve Jobs—not just for the tech, but for how they thought about design and user experience. I like when tech feels human.###A###
+
+What’s your relationship with failure — how do you usually deal with it?###Q###
+I don’t love failing, but I’ve learned not to fear it. I usually reflect, journal, and then try again with a new approach.###A###
+
+What’s a moment in your academic journey that really tested your confidence?###Q###
+Starting college in the U.S. again after years in Iran. I felt behind and unsure of myself at first, but I kept working and slowly caught up.###A###
+
+What’s a side of you that doesn’t come through on a resume but still matters?###Q###
+I’m very introspective. I think a lot about why I’m doing what I’m doing and how I can do it better. That mindset helps me grow faster than just ticking boxes.###A###
+
+When do you feel most in flow — like you’re fully locked in and doing your best work?###Q###
+When I’m building something new and slightly outside my comfort zone. That mix of challenge and creativity is where I feel most locked in.###A###
+
+Looking back, what advice would you give your younger self when you first got into tech?###Q###
+Don’t overthink everything. Just build. You’ll learn more by messing up than by waiting to feel ready.###A###
+
+What do you think shaped your personality the most growing up in both Iran and the U.S.?###Q###
+I think switching between cultures constantly forced me to adapt and reflect. It made me more observant and empathetic, because I had to understand different mindsets to fit in.###A###
+
+What personal values were instilled in you growing up that still guide you today?###Q###
+Respect, resilience, and self-discipline. I was always taught that how you carry yourself matters just as much as what you achieve.###A###
+
+How do you balance being logical and emotional when making decisions?###Q###
+I usually lead with logic but take a step back and check in with how I feel about it. If something feels off emotionally, I won’t move forward—even if it makes sense on paper.###A###
+
+What kind of environments do you thrive in—quiet, fast-paced, collaborative?###Q###
+I like quiet but driven spaces. I work best when I can focus deeply, but I also like being around people who are ambitious and building stuff too.###A###
+
+How would you describe your personality in one sentence?###Q###
+Calm on the outside, constantly thinking on the inside, always trying to improve something.###A###
+
+How do you usually respond to uncertainty or change?###Q###
+I step back, break it down, and start small. I’ve moved and adapted so many times that I’m kind of wired to stay calm in change now.###A###
+
+What do you care about most deeply—beyond school, work, and projects?###Q###
+Growth. I care a lot about becoming a better person—more patient, more thoughtful, more useful to the people around me.###A###
+
+What role does music play in your life outside of coding or studying?###Q###
+Huge role. Music is where I process emotions. It sets the tone for whatever I’m doing—coding, thinking, or even just zoning out.###A###
+
+If you had to describe your ideal day from start to finish, what would it look like?###Q###
+Wake up early, journal, code for a few hours, go on a walk or play tennis, have deep conversations with someone, end the day with music and reading. Nothing too fancy, just balanced.###A###
+
+What’s something about your personality that’s changed over time?###Q###
+I’ve become more patient—with myself and with others. I used to chase results constantly, but now I care more about the process and showing up consistently.###A###
