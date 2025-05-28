@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-yellow)
+![LLaMA](https://img.shields.io/badge/LLaMA-3.1--8B-green)
+![LoRA](https://img.shields.io/badge/Fine--tuning-LoRA-purple)
+![Gradio](https://img.shields.io/badge/Interface-Gradio-ff7c00)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+[![Try RezAI](https://img.shields.io/badge/Try%20RezAI-Live%20Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/rezaenayati/RezAi)
+
 # 🚀 RezAI - Personal AI Interview Twin 
 **RezAI** is a fine-tuned LLaMA 3.1 8B model trained on over 140 authentic Q&A pairs that reflect my technical background, personality, and lived experiences. Think of it as my digital twin, a personalized LLM model that knows how I think, code, and communicate.
 Whether you’re curious about my projects, want to explore my approach to machine learning, or just need a breakdown of my favorite tech stacks and design decisions, RezAI can speak on my behalf. It doesn’t just answer like me, it is me, in model form.
