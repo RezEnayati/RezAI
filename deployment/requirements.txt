@@ -1,0 +1,7 @@
+gradio
+torch
+transformers>=4.36.0
+peft
+accelerate
+bitsandbytes
+spaces
