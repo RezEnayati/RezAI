@@ -9,9 +9,9 @@
 ![DPO Trained](https://img.shields.io/badge/DPO-Fine--Tuned-4B1D95?style=flat-square&logo=OpenAI&logoColor=white)
 > 🎓 **Reinforced via Direct Preference Optimization** on 127 prompt triplets to align responses with my personal tone, accuracy, and answer style.
 
-# 🚀 RezAI - Personal AI Interview Twin (Fine-tuned LLM + DPO)
-[![Try RezAI](https://img.shields.io/badge/Try%20RezAI-Live%20Demo-blue?style=for-the-badge)](https://rezaenayati.co/)
-**RezAI** is a fine-tuned LLaMA 3.1 8B model trained on over 140 authentic Q&A pairs that reflect my technical background, personality, and lived experiences. Think of it as my digital twin, a personalized LLM model that knows how I think, code, and communicate.
+# 🚀 RezAi - Personal AI Interview Twin (Fine-tuned LLM + DPO)
+[![Try RezAi](https://img.shields.io/badge/Try%20RezAI-Live%20Demo-blue?style=for-the-badge)](https://rezaenayati.co/)
+**RezAi** is a fine-tuned LLaMA 3.1 8B model trained on over 140 authentic Q&A pairs that reflect my technical background, personality, and lived experiences. Think of it as my digital twin, a personalized LLM model that knows how I think, code, and communicate.
 Whether you’re curious about my projects, want to explore my approach to machine learning, or just need a breakdown of my favorite tech stacks and design decisions, RezAI can speak on my behalf. It doesn’t just answer like me, it is me, in model form.
 
 ## 🎯 Demo
