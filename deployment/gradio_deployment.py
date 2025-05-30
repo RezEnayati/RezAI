@@ -46,7 +46,7 @@ def chat_with_rezAi(message, history):
     lower_msg = message.lower()
 
     for phrase in blocked_words:
-        if phrase in lower_msg:
+        if re.search(rf"\b{re.escape(phrase)}\b", lower_msg):
             return "I'm not able to respond to that. Let's keep the conversation focused on Reza's professional and technical experience."
     
     prompt = (
