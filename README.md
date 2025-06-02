@@ -64,7 +64,7 @@ While initial fine-tuning captured my tone and knowledge, it scored low on BERTS
     * RezAI now more consistently reflects my personality, values, and answer style, especially in edge cases or open-ended prompts.
 
 ## 👤 Who Should Try RezAi?
-- Recruiters curious about my work and thinking process
+- *Recruiters* curious about my work and thinking process
 - Collaborators interested in my approach to software and AI
 - Anyone building personal LLMs or fine-tuned digital twins
 
