@@ -67,4 +67,5 @@ While initial fine-tuning captured my tone and knowledge, it scored low on BERTS
 - *Recruiters* curious about my work and thinking process
 - Collaborators interested in my approach to software and AI
 - Anyone building personal LLMs or fine-tuned digital twins
+- The idea for this project is my syartup. 
 
