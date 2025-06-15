@@ -18,7 +18,7 @@ Whether you’re curious about my projects, want to explore my approach to machi
 RezAI is live and ready to chat! You can test it in two places:
 
 - 🤖 [**Hugging Face Spaces (Gradio)**](https://huggingface.co/spaces/rezaenayati/RezAi) – Public and easy to access.
-- 🌐 [**My Personal Website**](https://rezaenayati.co/) – **Recommended** for the smoothest and most polished UI experience (seriously, it looks way better here).
+- 🌐 [**My Personal Website**](https://rezaenayati.co/) – **Recommended** for the smoothest and most polished UI experience.
   
 ## Features
 - **🗣️ Authentic Voice**: Mimics my speaking style and personality
